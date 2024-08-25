@@ -23,7 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: (https://h-keshk.github.io/Recipe-Page/)
+- Repository URL: (https://github.com/H-Keshk/Recipe-Page)
+- Live site URL : (https://h-keshk.github.io/Recipe-Page/)
 
 ## My process
 
