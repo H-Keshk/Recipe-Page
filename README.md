@@ -70,7 +70,7 @@ hr {
 
 I think Ineed to focus more in two important points;
 1. The media queries and how to make my design more smooth, yet I don't feel comfrtable with responsive idea.
-2. Iwant to learn more how to organize and shortend my codes, not to repeat the codes in different ways, like giving margin and padding to an element, while we can use only one, and it will work perfectly.
+2. I want to learn more how to organize and shortend my codes, not to repeat the codes in different ways, like giving margin and padding to an element, while we can use only one, and it will work perfectly.
 
 
 ### Useful resources
